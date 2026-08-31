@@ -1,0 +1,10 @@
+{
+  "startCoins": 8,
+  "pocketsSlots": 4,
+  "storageSlots": 16,
+  "hiveBeeSlotsMax": 4,
+  "honeyCapacity": 6,
+  "shopSlots": 4,
+  "shopRefreshCycles": 3,
+  "repairBoardsCost": 2
+}

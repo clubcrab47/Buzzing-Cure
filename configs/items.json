@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Дикий мед",
+      "tags": ["мед"],
+      "rarity": 0,
+      "stack": 40,
+      "buyPrice": null,
+      "sellPrice": 1,
+      "uses": null,
+      "description": "Мед из леса. Немного странный"
+    },
+    {
+      "id": 2,
+      "name": "Доски",
+      "tags": ["материал"],
+      "rarity": 0,
+      "stack": 20,
+      "buyPrice": 4,
+      "sellPrice": 2,
+      "uses": null,
+      "description": "Просто хорошие доски. Можно использовать много для чего"
+    },
+    {
+      "id": 3,
+      "name": "Старый молот",
+      "tags": ["инструмент"],
+      "rarity": 0,
+      "stack": 1,
+      "buyPrice": null,
+      "sellPrice": null,
+      "uses": 1,
+      "description": "Почувствуй себя взрослым - сколоти скворечник!"
+    },
+    {
+      "id": 4,
+      "name": "Пчела",
+      "tags": ["пчела"],
+      "rarity": 0,
+      "stack": 1,
+      "buyPrice": null,
+      "sellPrice": null,
+      "uses": null,
+      "description": "Прикольно жужжит"
+    }
+  ]
+}
